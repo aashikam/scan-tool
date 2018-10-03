@@ -4,7 +4,7 @@ I have implemented the tool as an MSF4J microservice which exposes two endpoints
 ## Built With
 
 * [WSO2 MSF4J](https://github.com/wso2/msf4j) - WSO2 Microservices Framework for Java (MSF4J)
-* [MongoDB](hhttps://www.mongodb.com) - MongoDB NoSQL database
+* [MongoDB](https://www.mongodb.com) - MongoDB NoSQL database
 * [ASM](https://asm.ow2.io/) -  Java bytecode manipulation and analysis framework. 
 
 ## Prerequisites 
